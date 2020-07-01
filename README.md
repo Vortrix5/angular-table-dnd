@@ -1,3 +1,2 @@
-# angular-cdk-drag-drop-bootstrap-table-qtruhl
+# angular-table-dnd
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-cdk-drag-drop-bootstrap-table-qtruhl)
